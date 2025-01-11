@@ -46,16 +46,16 @@ Colonies highlighted with contours.
 Display of the total colony count.
 
 
-Contributing
+**Contributing:**
 Contributions are welcome! Please fork this repository, create a new branch for your feature or bug fix, and submit a pull request.
 
-Future Enhancements -
+**Future Enhancements -**
 Implement batch processing for multiple images.
 Add a graphical user interface (GUI) for better usability.
 Integrate machine learning models for improved colony detection accuracy.
 Export results in various formats, such as CSV and PDF.
 
 
-Contact
+**Contact:**
 For any questions or suggestions, feel free to contact:
 devanshuv810@gmail.com
