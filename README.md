@@ -22,17 +22,21 @@ Matplotlib (Visualization)
 Installation-
 
 Clone the repository:
+
 git clone https://github.com/your-username/colony-counting-python.git  
 cd colony-counting-python  
 
 Create a virtual environment (optional but recommended):
+
 python -m venv venv  
 source venv/bin/activate   # On Windows: venv\Scripts\activate  
 
 Install required dependencies:
+
 pip install -r requirements.txt  
 
 Run the project:
+
 python colony_counter.py  
 
 Usage
