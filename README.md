@@ -11,35 +11,27 @@ Adjustable Parameters: Modify sensitivity and thresholds for more accurate resul
 Export Results: Save colony counts and processed images for documentation.
 
 
-Technology Stack -
+**Technology Stack -**
 
-Programming Language: Python
+Programming Language: Python 
 Libraries:
 OpenCV (Image processing)
 NumPy (Numerical operations)
 Matplotlib (Visualization)
 
-Installation-
+**Installation-**
 
 Clone the repository:
-
-git clone https://github.com/your-username/colony-counting-python.git  
+git clone https://github.com/your-username/colony-counting-python.git
 cd colony-counting-python  
 
-Create a virtual environment (optional but recommended):
-
-python -m venv venv  
-source venv/bin/activate   # On Windows: venv\Scripts\activate  
-
 Install required dependencies:
-
 pip install -r requirements.txt  
 
 Run the project:
-
 python colony_counter.py  
 
-Usage
+**Usage-**
 Place the image(s) of colony plates in the specified folder (e.g., input_images).
 Run the script and follow the prompts to upload an image.
 The script will process the image, detect colonies, and display the results.
@@ -47,9 +39,7 @@ The output will include:
 Total colony count.
 Processed image with detected colonies highlighted.
 Optional export of results to a file.
-Example
-Input Image:
-A raw image of a colony plate.
+
 
 Processed Output:
 Colonies highlighted with contours.
