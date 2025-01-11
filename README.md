@@ -1,9 +1,9 @@
 # colony_counting_project
 
-Overview
+**Overview :**
 This Python project automates the process of counting colonies in microbiological samples using image processing techniques. By leveraging OpenCV, the project identifies and counts colonies based on contour detection, making it a valuable tool for researchers and professionals in biotechnology and microbiology.
 
-Features
+<u>**Features**</u>
 Image Upload: Load images of colony plates for analysis.
 Colony Detection: Use OpenCV contour detection to identify and count colonies.
 Visual Results: Highlight detected colonies on the processed image.
